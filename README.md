@@ -1,5 +1,5 @@
 # image_upload_mysql
-画像をMYSQLに保存して、結果を表示する試験用Script
+画像をMySQLに保存して、結果を表示する試験用PHP
 
 #AUthor
 Fumihiko Akagi
