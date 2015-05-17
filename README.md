@@ -1,5 +1,5 @@
 # image_upload_mysql
-画像をPHPでMYSQLに保存する実験スクリプト
+画像をMYSQLに保存して、結果を表示する試験用Script
 
 #AUthor
 Fumihiko Akagi
