@@ -5,4 +5,4 @@
 Fumihiko Akagi
 
 #Copyright
-The MIT License
+BSD License
